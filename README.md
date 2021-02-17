@@ -1,2 +1,2 @@
 # React-Native-Project
-  Kullanıcı tarafından React Native ile geliştirilen uygulama üzerinden anlık görüntü alınarak firebase/storage ortamına gönderilerek  Google Cloud Vision API ile görüntüde bulunan nesne isimleri ve konum koordinat bilgileri işlemi gerçekleştirilmiştir.
+  By taking a snapshot from the application developed with React Native by the user, it was sent to the firebase / storage environment and the object names and location coordinate information in the image were found with the Google Cloud Vision API.
