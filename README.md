@@ -1,7 +1,7 @@
 # React-Native-Project
 The application was developed with React Native. A photo was taken from the user and was sent firebase / storage. The process of finding object names and location coordinate informations in the image was carried out with the Google Cloud Vision API.
 
-![](https://user-images.githubusercontent.com/46785635/186418629-07d1bc3e-56a3-426e-b925-cd70e9d924f5.png)
+![image]<img src=https://user-images.githubusercontent.com/46785635/186418629-07d1bc3e-56a3-426e-b925-cd70e9d924f5.png width="400" height="790">
 
 
 Image selection is done from the gallery.
